@@ -1,0 +1,4 @@
+ls
+exit
+transfer
+exit
